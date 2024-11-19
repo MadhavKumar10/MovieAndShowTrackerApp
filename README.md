@@ -52,6 +52,7 @@ Browse movies and shows available in the app.
 
 My List Screen
 View your Watched and To Watch categories in a tabbed layout.
+![Screenshot_20241119_201931](https://github.com/user-attachments/assets/bebef532-2bef-4d72-b0ee-4141fdc2ced3)
 
 
 Search Functionality
