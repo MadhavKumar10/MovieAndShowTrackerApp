@@ -49,20 +49,24 @@ Screenshots 📸
 Home Screen
 Browse movies and shows available in the app.
 
+![Screenshot_20241119_115037](https://github.com/user-attachments/assets/fc7d3f63-7853-4555-ac94-83123a464019)
 
 My List Screen
 View your Watched and To Watch categories in a tabbed layout.
+
 ![Screenshot_20241119_201931](https://github.com/user-attachments/assets/bebef532-2bef-4d72-b0ee-4141fdc2ced3)
 
 
 Search Functionality
 Quickly find movies or shows with a search bar.
+
 ![Screenshot_20241119_115500](https://github.com/user-attachments/assets/a9b7ed84-e3eb-4db7-a158-de3c70ae9f07)
 
 
 Movie/Show Details
 Detailed view with information about the selected movie or show.
-![Screenshot_20241119_115037](https://github.com/user-attachments/assets/3d1727d5-60cf-4c32-a9b0-9566a0d814e9)
+
+![Screenshot_20241119_115751](https://github.com/user-attachments/assets/415bce08-c47c-49d2-8162-5e7787c975e8)
 
 
 Technologies Used 💻
@@ -70,9 +74,9 @@ Frontend: React Native, React Navigation
 Backend: Node.js, Express.js
 Database: MongoDB (or mock API for testing)
 APIs: Movie/Show database API integration
+
 How to Contribute 🤝
 We welcome contributions! To contribute:
-
 Fork the repository.
 Create a new branch:
 git checkout -b feature-name
